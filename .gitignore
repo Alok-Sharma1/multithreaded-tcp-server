@@ -1,0 +1,5 @@
+build/
+server.log
+*.o
+*.d
+.DS_Store
