@@ -3,3 +3,4 @@ server.log
 *.o
 *.d
 .DS_Store
+PROJECT_EXPLAINED.md
